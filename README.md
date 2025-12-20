@@ -1,2 +1,5 @@
 # power-profile-setter-
-Set power profiles for linux (requires power-profiles-daemon).
+Set power profiles for linux.
+Requires power-profiles-daemon, python3, and python gtk modules.
+
+![Alt text](hyprshot.png)
